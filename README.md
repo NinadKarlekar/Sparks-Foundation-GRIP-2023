@@ -1,7 +1,7 @@
 # Sparks-Foundation-GRIP-2023
 Tasks of Graduate Rotational Internship Program The Sparks Foundation #GRIP
 
-## Data Science & Business Analytics Tasks #GRIPfeb23
+## Data Science & Business Analytics Tasks #GRIPMar23
 
 ## Task List
 
